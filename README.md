@@ -6,12 +6,22 @@
 Projeto proposto pela Imã Learning para o programa GODev para testar as habilidade com HTML e CSS!
 
 📍 Tecnologias Utilizadas:
+
 ✔️ HTML
+
 ✔️ CSS
 
+
+
+
 🔗Links:
-Icones: https://fontawesome.com/
-Gradiente:https://cssgradient.io/
-Foto:https://www.pexels.com/pt-br/
-Fonte:https://fonts.google.com/
-Video Inspiração:https://www.youtube.com/watch?v=bLNar9fmtqk
+
+•Icones: https://fontawesome.com/
+
+•Gradiente:https://cssgradient.io/
+
+•Foto:https://www.pexels.com/pt-br/
+
+•Fonte:https://fonts.google.com/
+
+•Video Inspiração:https://www.youtube.com/watch?v=bLNar9fmtqk
